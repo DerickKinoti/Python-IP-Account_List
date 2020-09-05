@@ -1,4 +1,5 @@
 # Python-IP-Account_List
+     Project Description
 This is an application, that helps its users manage the passwords and credentials of their multiple accounts. It allows the user to create an account, store the credentials of that account, search for it, delete it and also allows for the generation of new passwords.
 
      Technology Used
